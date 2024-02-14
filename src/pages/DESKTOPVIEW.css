@@ -1,0 +1,376 @@
+.why-aspire-arc {
+  margin: 0;
+  height: 66px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 800;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-shadow: 1px 0 0#917575, 0 1px 0#917575, -1px 0 0#917575, 0-1px 0#917575;
+  max-width: 100%;
+}
+.follow-us-link,
+.parent-of-social-media-links {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.parent-of-social-media-links {
+  flex: 1;
+  border-top: 4px solid var(--color-black);
+  border-bottom: 4px solid var(--color-black);
+  align-items: center;
+  justify-content: center;
+  padding: 0 0 var(--padding-9xs);
+}
+.follow-us-link {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-27xl);
+  flex-shrink: 0;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: #04031a;
+  font-family: var(--font-montserrat-alternates);
+}
+.courses-wrapper,
+.courses1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+.courses1 {
+  margin: 0;
+  height: 115px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  @media only screen and (min-width: 320px) and (max-width: 430px) {
+    height: 50px;
+  }
+}
+.courses-wrapper {
+  flex: 1;
+  border-top: 4px solid var(--color-black);
+  border-bottom: 4px solid var(--color-black);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-11xs) var(--padding-11xs) var(--padding-10xs);
+  max-width: 100%;
+}
+.courses,
+.frame-parent,
+.text {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+  @media only screen and (min-width: 320px) and (max-width: 430px) {
+    align-items: center;
+    margin-left: 10px;
+  }
+}
+.text {
+  width: 1016px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-3xl) 0 0;
+  box-sizing: border-box;
+}
+.courses,
+.frame-parent {
+  flex-direction: column;
+}
+.frame-parent {
+  width: 1022px;
+  align-items: flex-start;
+  gap: var(--gap-50xl);
+}
+.courses {
+  align-self: stretch;
+  background-color: var(--color-white);
+  overflow: hidden;
+  align-items: center;
+  padding: var(--padding-37xl) var(--padding-xl) 87px var(--padding-23xl);
+  box-sizing: border-box;
+  gap: var(--gap-70xl);
+  flex-shrink: 0;
+  z-index: 2;
+  text-align: center;
+  font-size: 96px;
+  color: var(--color-black);
+  font-family: var(--font-kotta-one);
+}
+.whatsapp-image-2023-11-26-at-1 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.contact-us1 {
+  margin: 0;
+  height: 72px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.book-your-free {
+  margin: 0;
+  @media screen and (min-width: 320px) and (max-width: 430px) {
+    font-size: 30px;
+  }
+}
+.fill-the-form {
+  margin: 0;
+  font-size: var(--font-size-16xl);
+  color: var(--color-black);
+}
+.book-your-free-container {
+  align-self: stretch;
+  height: 178px;
+  position: relative;
+  white-space: pre-wrap;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.or {
+  margin: 0;
+  @media screen and (min-width: 320px) and (max-width: 430px) {
+    font-size: 25px;
+  }
+}
+.fill-the-form1 {
+  margin: 0;
+  text-decoration: underline;
+  @media screen and (min-width: 320px) and (max-width: 430px) {
+    font-size: 30px;
+  }
+}
+.or-fill-the-container {
+  margin: 0;
+  height: 88px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  cursor: pointer;
+  z-index: 1;
+}
+.call-to-action-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 13px 0 0;
+  font-size: var(--font-size-16xl);
+  color: var(--color-black);
+}
+.contact-us,
+.free-illustration-session {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.free-illustration-session {
+  width: 486px;
+  gap: var(--gap-sm);
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  color: #09021d;
+  font-family: var(--font-acme);
+}
+.contact-us {
+  align-self: stretch;
+  background-color: var(--color-white);
+  overflow: hidden;
+  padding: var(--padding-6xl) var(--padding-6xl) 124px;
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-191xl);
+  flex-shrink: 0;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: #030000;
+  font-family: var(--font-lobster);
+}
+.united-india-apartments-mayur,
+.we-are-currently-located-at {
+  margin: 0;
+  
+}
+.we-are-currently-container {
+  margin: 0;
+  align-self: stretch;
+  height: 240.1px;
+  position: relative;
+  font-size: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  transform: rotate(-0.02deg);
+  font-family: inherit;
+  
+ 
+}
+.contact-us2 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-base);
+  box-sizing: border-box;
+  min-width: 449px;
+  max-width: 100%;
+}
+.whatsapp-image-2023-11-28-at-1 {
+  width: 419px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 100%;
+  cursor: pointer;
+  
+  
+}
+.desktop-view,
+.location {
+  overflow: hidden;
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.location {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-end;
+  padding: var(--padding-45xl) var(--padding-15xl) 105px var(--padding-37xl);
+  row-gap: 20px;
+  max-width: 100%;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: 42px;
+  color: var(--color-black);
+  font-family: var(--font-alef);
+}
+.desktop-view {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  flex-direction: column;
+  align-items: center;
+  padding: var(--padding-12xl) 0 45px;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .courses {
+    gap: var(--gap-70xl);
+    padding-left: 21px;
+    padding-top: var(--padding-17xl);
+    padding-bottom: 57px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .why-aspire-arc {
+    font-size: var(--font-size-13xl);
+  }
+  .courses1 {
+    font-size: var(--font-size-29xl);
+  }
+  .frame-parent {
+    gap: var(--gap-50xl);
+  }
+  .courses {
+    padding-top: var(--padding-4xl);
+    padding-bottom: var(--padding-18xl);
+    box-sizing: border-box;
+  }
+  .contact-us1 {
+    font-size: var(--font-size-32xl);
+  }
+  .book-your-free-container,
+  .or-fill-the-container {
+    font-size: var(--font-size-9xl);
+  }
+  .we-are-currently-container {
+    font-size: 34px;
+  }
+  .whatsapp-image-2023-11-28-at-1 {
+    flex: 1;
+  }
+  .location {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .frame-parent {
+    gap: var(--gap-50xl);
+  }
+  .courses {
+    gap: var(--gap-70xl);
+  }
+  .contact-us {
+    gap: var(--gap-191xl);
+    padding-top: var(--padding-xl);
+    padding-bottom: 81px;
+    box-sizing: border-box;
+  }
+  .contact-us2 {
+    min-width: 100%;
+  }
+  .location {
+    padding-left: var(--padding-9xl);
+    padding-top: var(--padding-23xl);
+    padding-bottom: var(--padding-49xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .why-aspire-arc {
+    font-size: var(--font-size-5xl);
+  }
+  .courses1 {
+    font-size: var(--font-size-10xl);
+  }
+  .courses {
+    padding-top: var(--padding-xl);
+    padding-bottom: var(--padding-5xl);
+    box-sizing: border-box;
+  }
+  .contact-us1 {
+    font-size: var(--font-size-19xl);
+  }
+  .book-your-free-container,
+  .or-fill-the-container {
+    font-size: var(--font-size-2xl);
+  }
+  .contact-us {
+    gap: var(--gap-191xl);
+  }
+  .we-are-currently-container {
+    font-size: 25px;
+  }
+}
