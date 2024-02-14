@@ -1,0 +1,175 @@
+.design-1-icon {
+  height: 193px;
+  width: 308px;
+  position: relative;
+  object-fit: cover;
+  @media screen and (min-width: 320px) and (max-width: 430px) {
+   height: fit-content;
+  }
+}
+.united-india-apartments {
+  margin: 0;
+  height: 60.1px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  transform: rotate(-0.02deg);
+  max-width: 100%;
+}
+.phone-number1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.phone-no-91 {
+  height: 30px;
+  position: relative;
+  display: inline-block;
+}
+.phone-number2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-45xl) 0 var(--padding-54xl);
+}
+.follow-us1 {
+  margin: 0;
+  height: 29px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: var(--font-montserrat);
+  text-align: left;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.design-location {
+  width: 394px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xl);
+  min-width: 394px;
+  max-width: 100%;
+}
+.phone-number-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.google-icon1 {
+  width: 41.3px;
+  border-radius: var(--br-325xl);
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.github-icon1,
+.google-icon1,
+.group-icon1,
+.linkedin-icon1 {
+  height: 41.3px;
+  position: relative;
+  min-height: 41px;
+  cursor: pointer;
+}
+.linkedin-icon1 {
+  width: 41.3px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.github-icon1,
+.group-icon1 {
+  width: 40.8px;
+}
+.github-icon1 {
+  width: 41.2px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.social-media-links {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0 var(--padding-12xs) 0 0;
+  gap: var(--gap-xl);
+}
+.book-your-free-illustration-se {
+  width: 356px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-34xl);
+  box-sizing: border-box;
+}
+.book-your-free-illustration-se,
+.contact-us-info1,
+.design-section {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.contact-us-info1 {
+  width: 784px;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: var(--gap-mid);
+}
+.design-section {
+  width: 1078px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-acme);
+}
+@media screen and (max-width: 750px) {
+  .design-1-icon {
+    flex: 1;
+  }
+  .design-location {
+    flex: 1;
+    min-width: 100%;
+  }
+  .phone-number-frame {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 450px) {
+  .phone-no-91,
+  .united-india-apartments {
+    font-size: var(--font-size-lgi);
+  }
+  .phone-number2 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .follow-us1 {
+    font-size: var(--font-size-lgi);
+  }
+  .book-your-free-illustration-se {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

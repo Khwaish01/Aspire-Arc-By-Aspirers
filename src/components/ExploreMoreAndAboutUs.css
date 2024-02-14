@@ -1,0 +1,550 @@
+.coffees-01-icon {
+  width: 501px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 100%;
+  @media only screen and (min-width: 320px) and (max-width: 430px) {
+    margin-top: -50px;
+    height: fit-content;
+  }
+}
+.supportive-faculty {
+  margin: 0;
+  height: 51px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 800;
+  font-family: inherit;
+  display: inline-block;
+  @media only screen and (min-width: 320px) and (max-width: 430px) {
+    margin-top: -50px;
+    text-align: center;
+  }
+}
+.introducing-machine-learning-f {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-14xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.aspire-arc-values,
+.the-faculty-at {
+  margin: 0;
+}
+.aspire-arc-values-container {
+  align-self: stretch;
+  height: 200px;
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-arbutus-slab);
+  text-align: justify;
+  display: inline-block;
+  flex-shrink: 0;
+  @media only screen and (min-width: 320px) and (max-width: 430px) {
+    margin-top: -40px; 
+    padding-bottom: 100px;
+  }
+}
+.rating-component1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-15xl);
+  max-width: 100%;
+}
+.contact-details,
+.text1 {
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.contact-details {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-lgi);
+  min-width: 378px;
+}
+.text1 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0 var(--padding-21xl) 0 var(--padding-31xl);
+  gap: var(--gap-8xl);
+}
+.interactive-learning {
+  margin: 0;
+  height: 51px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 800;
+  font-family: inherit;
+  display: inline-block;
+}
+.frame-container1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-4xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.classes-at-aspire,
+.the-emphasis-on {
+  margin: 0;
+}
+.classes-at-aspire-container {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-arbutus-slab);
+  text-align: justify;
+  
+}
+.third-grade-label,
+.third-grade-label-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.third-grade-label {
+  align-self: stretch;
+  align-items: center;
+  gap: var(--gap-18xl);
+  @media only screen and (min-width: 320px) and (max-width: 430px) {
+    padding-top: 280px;
+  }
+}
+.third-grade-label-wrapper {
+  flex: 1;
+  align-items: flex-start;
+  padding: var(--padding-12xl) 0 0;
+  box-sizing: border-box;
+  min-width: 378px;
+}
+.coffees-01-icon1 {
+  width: 477px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 100%;
+  @media only screen and (min-width: 320px) and (max-width: 430px) {
+    margin-top: -630px; 
+    position: relative;
+  }
+}
+.location2 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-11xl) 0 var(--padding-49xl);
+  box-sizing: border-box;
+  gap: var(--gap-24xl);
+  max-width: 100%;
+}
+.coffees-01-icon2 {
+  width: 496px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 100%;
+}
+.flexible-schedules {
+  margin: 0;
+  height: 51px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 800;
+  font-family: inherit;
+  display: inline-block;
+}
+.text-input {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-12xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.recognizing-the-challenges,
+.this-allows-students {
+  margin: 0;
+  
+}
+.recognizing-the-challenges-container {
+  align-self: stretch;
+  height: 161px;
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-arbutus-slab);
+  text-align: justify;
+  display: inline-block;
+  flex-shrink: 0;
+  @media only screen and (min-width: 320px) and (max-width: 430px) {
+    padding-bottom: 30px;
+  }
+}
+.social-media-follow-frame,
+.text-input-parent {
+  display: flex;
+  gap: var(--gap-24xl);
+  max-width: 100%;
+}
+.text-input-parent {
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  min-width: 378px;
+}
+.social-media-follow-frame {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-4xl) var(--padding-21xl) var(--padding-12xl)
+    var(--padding-20xl);
+  box-sizing: border-box;
+}
+.real-world-applications {
+  margin: 0;
+  height: 46px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 800;
+  font-family: inherit;
+  display: inline-block;
+}
+.real-world-applications-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-mini);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.aspire-arc-believes,
+.this-approach-ensures {
+  margin: 0;
+}
+.aspire-arc-believes-container {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-arbutus-slab);
+  text-align: justify;
+}
+.frame-parent1,
+.rating-stars-inner {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent1 {
+  align-self: stretch;
+  align-items: center;
+  gap: var(--gap-26xl);
+  @media only screen and (min-width: 320px) and (max-width: 430px) {
+    padding-top: 350px;
+  }
+}
+.rating-stars-inner {
+  flex: 1;
+  align-items: flex-start;
+  padding: 0 0 var(--padding-5xl);
+  box-sizing: border-box;
+  min-width: 378px;
+}
+.coffees-01-icon3 {
+  width: 446px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 100%;
+  @media only screen and (min-width: 320px) and (max-width: 430px) {
+    margin-top: -1130px; 
+    position: relative;
+  }
+}
+.rating-stars {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0 var(--padding-5xl) 0 var(--padding-57xl);
+  box-sizing: border-box;
+  gap: var(--gap-53xl);
+  max-width: 100%;
+  font-size: var(--font-size-17xl);
+}
+.coffees-01-icon4 {
+  width: 468px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 100%;
+}
+.guidance-for-the {
+  margin: 0;
+  height: 51px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 800;
+  font-family: inherit;
+  display: inline-block;
+}
+.guidance-for-the-future-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-9xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.aspire-arc-goes,
+.students-benefit-from {
+  margin: 0;
+  @media only screen and (min-width: 320px) and (max-width: 430px) {
+    margin-bottom: 20px;
+  }
+}
+.aspire-arc-goes-container,
+.frame-parent2 {
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+}
+.aspire-arc-goes-container {
+  height: 150px;
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-arbutus-slab);
+  text-align: justify;
+  flex-shrink: 0;
+}
+.frame-parent2 {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-48xl);
+  max-width: 100%;
+  @media only screen and (min-width: 320px) and (max-width: 430px) {
+    margin-top: -50px;
+  }
+}
+.explore-more-and-about-us,
+.location-inner,
+.location3 {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.location-inner {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-9xl) 0 0;
+  min-width: 375px;
+}
+.explore-more-and-about-us,
+.location3 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-13xl) var(--padding-18xl) var(--padding-52xl);
+  gap: var(--gap-33xl);
+  
+}
+.explore-more-and-about-us {
+  background-color: var(--color-white);
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-sm) 0 var(--padding-91xl);
+  gap: var(--gap-50xl);
+  flex-shrink: 0;
+  z-index: 3;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-neuton);
+  
+}
+@media screen and (max-width: 1200px) {
+  .explore-more-and-about-us {
+    padding-top: var(--padding-xl);
+    padding-bottom: var(--padding-27xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .coffees-01-icon {
+    flex: 1;
+  }
+  .supportive-faculty {
+    font-size: var(--font-size-13xl);
+  }
+  .text1 {
+    flex-wrap: wrap;
+  }
+  .interactive-learning {
+    font-size: var(--font-size-13xl);
+  }
+  .coffees-01-icon1 {
+    flex: 1;
+  }
+  .location2 {
+    flex-wrap: wrap;
+  }
+  .coffees-01-icon2 {
+    flex: 1;
+  }
+  .flexible-schedules {
+    font-size: var(--font-size-13xl);
+  }
+  .social-media-follow-frame {
+    flex-wrap: wrap;
+  }
+  .real-world-applications {
+    font-size: var(--font-size-10xl);
+  }
+  .coffees-01-icon3 {
+    flex: 1;
+  }
+  .rating-stars {
+    flex-wrap: wrap;
+  }
+  .coffees-01-icon4 {
+    flex: 1;
+  }
+  .guidance-for-the {
+    font-size: var(--font-size-13xl);
+  }
+  .location3 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .rating-component1 {
+    gap: var(--gap-15xl);
+  }
+  .contact-details {
+    min-width: 100%;
+  }
+  .text1 {
+    padding-left: var(--padding-6xl);
+    box-sizing: border-box;
+  }
+  .third-grade-label {
+    gap: var(--gap-18xl);
+  }
+  .third-grade-label-wrapper {
+    min-width: 100%;
+  }
+  .location2 {
+    gap: var(--gap-24xl);
+    padding-left: var(--padding-15xl);
+    box-sizing: border-box;
+  }
+  .text-input-parent {
+    min-width: 100%;
+  }
+  .social-media-follow-frame,
+  .text-input-parent {
+    gap: var(--gap-24xl);
+  }
+  .frame-parent1 {
+    gap: var(--gap-26xl);
+  }
+  .rating-stars-inner {
+    min-width: 100%;
+  }
+  .rating-stars {
+    gap: var(--gap-53xl);
+    padding-left: var(--padding-19xl);
+    box-sizing: border-box;
+  }
+  .frame-parent2 {
+    gap: var(--gap-48xl);
+  }
+  .location-inner {
+    min-width: 100%;
+  }
+  .location3 {
+    gap: var(--gap-33xl);
+    padding-left: var(--padding-16xl);
+    box-sizing: border-box;
+  }
+  .explore-more-and-about-us {
+    gap: var(--gap-50xl);
+    padding-bottom: var(--padding-11xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .supportive-faculty {
+    font-size: var(--font-size-5xl);
+  }
+  .aspire-arc-values-container {
+    font-size: var(--font-size-base);
+  }
+  .interactive-learning {
+    font-size: var(--font-size-5xl);
+  }
+  .classes-at-aspire-container {
+    font-size: var(--font-size-base);
+  }
+  .flexible-schedules {
+    font-size: var(--font-size-5xl);
+  }
+  .recognizing-the-challenges-container {
+    font-size: var(--font-size-base);
+  }
+  .social-media-follow-frame {
+    padding-top: var(--padding-xl);
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .real-world-applications {
+    font-size: var(--font-size-3xl);
+  }
+  .aspire-arc-believes-container {
+    font-size: var(--font-size-base);
+  }
+  .rating-stars {
+    gap: var(--gap-53xl);
+  }
+  .guidance-for-the {
+    font-size: var(--font-size-5xl);
+  }
+  .aspire-arc-goes-container {
+    font-size: var(--font-size-base);
+  }
+  .frame-parent2 {
+    gap: var(--gap-48xl);
+  }
+  .explore-more-and-about-us {
+    gap: var(--gap-50xl);
+  }
+}
